@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,Region,Total_Spent,No_of_Orders,Average_Order_Value,Payment_Method,Returning_Customer,Satisfaction_Rating,new_column,new_customer
+1,56,Female,East,1628.56,19,85.71,Debit Card,No,2,Yes,Yes
+2,37,Female,South,1671.64,12,139.3,COD,Yes,4,Yes,
+3,22,Male,North,3649.67,18,202.76,UPI,No,3,Yes,Yes
+4,18,Male,West,3754.6,6,625.77,Credit Card,Yes,3,Yes,
+5,47,Female,South,1081.76,18,60.1,COD,Yes,5,Yes,
+6,66,Female,East,4353.8,19,229.15,Debit Card,No,5,Yes,Yes
+7,20,Female,West,3603.13,5,720.63,Debit Card,No,3,Yes,Yes
+8,62,Female,West,2857.48,9,317.5,Debit Card,No,5,Yes,Yes
+9,31,Male,East,2410.51,3,803.5,Credit Card,No,4,Yes,Yes
+10,47,Female,South,2761.84,10,276.18,UPI,No,1,Yes,Yes
+11,67,Female,North,880.3,19,46.33,Credit Card,No,4,Yes,Yes
+12,21,Male,North,1098.14,3,366.05,COD,No,3,Yes,Yes
+13,35,Female,South,546.71,15,36.45,Debit Card,Yes,3,Yes,
+14,54,Male,West,852.92,1,852.92,Credit Card,Yes,4,Yes,
+15,42,Male,West,2323.1,7,331.87,Credit Card,Yes,5,Yes,
+16,65,Male,West,2698.74,12,224.9,UPI,Yes,5,Yes,
+17,18,Female,West,187.52,17,11.03,UPI,Yes,3,Yes,
+18,63,Female,South,4004.31,5,800.86,Debit Card,No,2,Yes,Yes
+19,32,Male,West,1541.42,4,385.36,Credit Card,Yes,5,Yes,
+20,26,Female,East,4568.0,12,380.67,Credit Card,Yes,4,Yes,
+21,32,Female,West,4840.81,18,268.93,UPI,Yes,5,Yes,
+22,66,Male,North,1008.75,17,59.34,Credit Card,Yes,4,Yes,
+23,41,Male,West,2364.28,19,124.44,Credit Card,Yes,3,Yes,
+24,21,Female,South,106.04,9,11.78,Credit Card,Yes,5,Yes,
+25,29,Male,North,3031.8,4,757.95,UPI,Yes,4,Yes,
+26,54,Female,South,3075.8,2,1537.9,Debit Card,No,3,Yes,Yes
+27,54,Female,South,1312.95,4,328.24,COD,No,2,Yes,Yes
+28,60,Female,North,2836.22,2,1418.11,Debit Card,Yes,4,Yes,
+29,23,Female,South,1205.15,15,80.34,COD,No,2,Yes,Yes
+30,56,Male,South,888.04,2,444.02,Credit Card,No,2,Yes,Yes
+31,63,Male,West,3292.45,4,823.11,Debit Card,No,1,Yes,Yes
+32,41,Male,East,1697.03,6,282.84,COD,No,5,Yes,Yes
+33,28,Male,South,2992.29,7,427.47,UPI,Yes,4,Yes,
+34,30,Female,South,2222.91,10,222.29,UPI,No,2,Yes,Yes
+35,51,Female,South,4923.32,19,259.12,Debit Card,No,1,Yes,Yes
+36,42,Male,West,832.95,19,43.84,Debit Card,No,3,Yes,Yes
+37,24,Female,East,2376.53,12,198.04,Credit Card,Yes,4,Yes,
+38,69,Female,North,3434.24,3,1144.75,Debit Card,Yes,2,Yes,
+39,21,Female,West,2038.17,13,156.78,Credit Card,Yes,5,Yes,
+40,25,Male,West,4876.03,18,270.89,Credit Card,Yes,1,Yes,
+41,37,Male,East,3637.25,8,454.66,UPI,Yes,2,Yes,
+42,46,Male,East,3319.22,15,221.28,UPI,Yes,5,Yes,
+43,68,Female,West,3809.59,1,3809.59,COD,Yes,2,Yes,
+44,62,Male,North,4767.98,3,1589.33,UPI,No,4,Yes,Yes
+45,63,Male,West,4548.31,8,568.54,UPI,No,4,Yes,Yes
+46,27,Male,East,3649.0,4,912.25,Debit Card,No,4,Yes,Yes
+47,60,Male,North,3770.89,16,235.68,UPI,Yes,1,Yes,
+48,51,Male,East,815.02,10,81.5,COD,Yes,4,Yes,
+49,43,Male,North,603.68,12,50.31,Debit Card,Yes,5,Yes,
+50,58,Female,South,2897.43,14,206.96,COD,Yes,2,Yes,
+51,66,Female,East,190.0,14,13.57,UPI,Yes,3,Yes,
+52,20,Male,East,2463.55,2,1231.78,COD,No,5,Yes,Yes
+53,23,Male,West,1130.71,5,226.14,Debit Card,No,5,Yes,Yes
+54,22,Female,East,1795.48,5,359.1,Credit Card,Yes,4,Yes,
+55,22,Female,East,3901.44,6,650.24,COD,Yes,1,Yes,
+56,64,Male,South,4712.06,13,362.47,COD,Yes,2,Yes,
+57,40,Male,East,454.84,9,50.54,Debit Card,Yes,1,Yes,
+58,66,Male,South,2717.79,15,181.19,Debit Card,No,2,Yes,Yes
+59,26,Male,South,4424.41,14,316.03,COD,Yes,2,Yes,
+60,52,Female,South,504.29,7,72.04,UPI,Yes,1,Yes,
+61,37,Male,South,4140.12,2,2070.06,COD,Yes,5,Yes,
+62,66,Male,North,1853.23,7,264.75,Debit Card,Yes,2,Yes,
+63,59,Male,West,1678.26,6,279.71,Credit Card,No,1,Yes,Yes
+64,52,Male,North,4889.59,17,287.62,Credit Card,Yes,2,Yes,
+65,67,Female,East,1084.21,2,542.1,UPI,Yes,3,Yes,
+66,35,Female,North,3496.65,3,1165.55,COD,No,5,Yes,Yes
+67,34,Female,North,4125.06,5,825.01,Credit Card,No,4,Yes,Yes
+68,41,Male,East,301.8,5,60.36,COD,No,2,Yes,Yes
+69,20,Male,East,3384.89,1,3384.89,Debit Card,Yes,3,Yes,
+70,49,Female,East,4762.59,8,595.32,Credit Card,Yes,4,Yes,
+71,52,Male,North,708.68,12,59.06,UPI,No,4,Yes,Yes
+72,55,Male,North,4491.48,4,1122.87,Debit Card,No,2,Yes,Yes
+73,30,Female,East,3014.41,13,231.88,UPI,No,1,Yes,Yes
+74,64,Female,West,3121.36,15,208.09,Debit Card,No,2,Yes,Yes
+75,42,Female,West,3103.43,11,282.13,Credit Card,No,3,Yes,Yes
+76,26,Female,South,1564.3,10,156.43,UPI,No,4,Yes,Yes
+77,21,Male,East,4682.49,3,1560.83,UPI,Yes,2,Yes,
+78,31,Male,South,4742.02,14,338.72,Debit Card,Yes,1,Yes,
+79,54,Female,West,3163.99,16,197.75,UPI,Yes,2,Yes,
+80,51,Male,South,3938.77,10,393.88,Debit Card,No,5,Yes,Yes
+81,28,Female,East,3100.06,10,310.01,Debit Card,No,1,Yes,Yes
+82,58,Female,East,2473.55,12,206.13,Debit Card,No,3,Yes,Yes
+83,20,Male,East,3338.02,9,370.89,Debit Card,No,4,Yes,Yes
+84,45,Female,North,2809.71,1,2809.71,Credit Card,No,2,Yes,Yes
+85,46,Male,South,3027.63,5,605.53,Debit Card,No,1,Yes,Yes
+86,26,Male,West,3940.78,8,492.6,COD,Yes,5,Yes,
+87,20,Male,West,2456.43,11,223.31,UPI,Yes,1,Yes,
+88,42,Male,West,299.7,12,24.98,COD,No,5,Yes,Yes
+89,51,Female,North,903.6,1,903.6,Credit Card,Yes,3,Yes,
+90,29,Male,North,2249.18,11,204.47,COD,No,4,Yes,Yes
+91,59,Female,East,3651.65,5,730.33,UPI,Yes,3,Yes,
+92,26,Female,West,3007.07,15,200.47,COD,No,2,Yes,Yes
+93,32,Female,North,3286.44,5,657.29,Credit Card,No,1,Yes,Yes
+94,57,Female,East,2448.47,12,204.04,Debit Card,Yes,5,Yes,
+95,42,Male,West,3117.14,5,623.43,COD,Yes,5,Yes,
+96,22,Male,South,1712.19,17,100.72,Credit Card,No,1,Yes,Yes
+97,28,Female,East,2403.89,17,141.41,Credit Card,No,1,Yes,Yes
+98,51,Female,North,3746.97,12,312.25,UPI,Yes,2,Yes,
+99,41,Male,North,4371.98,15,291.47,UPI,Yes,3,Yes,
+100,32,Female,East,2224.91,15,148.33,COD,No,5,Yes,Yes
